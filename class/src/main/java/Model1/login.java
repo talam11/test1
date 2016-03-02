@@ -5,6 +5,7 @@ public class login {
 private String name;
 private int age;
 private String address;
+
 public String getName() {
 	return name;
 }
